@@ -5,7 +5,7 @@
 
 - **Semester:** 252  
 - **Academic Advisor:** Dr. Omar Alomeir  
- Saleh Albalawi 
+- **Contributors:** Saleh Albalawi  
 
 Bloom AI is an LLM-powered assessment design system that generates and evaluates questions aligned with Bloom’s Taxonomy, with explainable cognitive-level classification. This repository implements the system described in the course Form 1 project sign-up and associated documentation.
 
