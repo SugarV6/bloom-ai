@@ -1,0 +1,21 @@
+question,label,is_labeled,source,dataset_type
+"What is the primary function of the mitochondria in a cell?",1,1,manual,train
+"Which enzyme catalyzes the conversion of glucose to pyruvate?",1,1,manual,train
+"Explain the difference between mitosis and meiosis.",1,1,manual,train
+"What do you think?",0,1,manual,train
+"Can you repeat that?",0,1,manual,train
+"Is this going to be on the test?",0,1,manual,train
+"How does photosynthesis convert light energy into chemical energy?",1,1,manual,train
+"What are the three stages of cellular respiration?",1,1,manual,train
+"Compare and contrast DNA and RNA structure.",1,1,manual,train
+"I don't understand.",0,1,manual,train
+"What?",0,1,manual,train
+"Which of the following best describes the role of ATP in cells?",1,1,manual,train
+"Describe the steps of the Krebs cycle.",1,1,manual,train
+"Why are we learning this?",0,1,manual,train
+"What is the relationship between genes and chromosomes?",1,1,manual,train
+"Define homeostasis and give an example.",1,1,manual,train
+"Does this count for a grade?",0,1,manual,train
+"How do enzymes lower activation energy?",1,1,manual,train
+"What are the products of the light-dependent reactions?",1,1,manual,train
+"Explain the central dogma of molecular biology.",1,1,manual,train
