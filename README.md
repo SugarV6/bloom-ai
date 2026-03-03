@@ -3,7 +3,7 @@
 **Official project title (Form 1):**  
 *BloomAI: An LLM-Powered System for Cognitively Aligned Assessment Design Using Bloom’s Taxonomy for Question Classification and Generation*
 
-- **Semester:** 252  
+
 - **Academic Advisor:** Dr. Omar Alomeir  
 - **Contributors:** Saleh Albalawi  
 
